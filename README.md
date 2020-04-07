@@ -24,7 +24,8 @@ Menggunakan `d` command pada folder
 ## set downloaded dir
 ![downloadDir](https://i.ibb.co/jgtR7mq/download-dir.gif)
 
-ketik `vim index.py` lalu ubah value dari variable outdir
+Sebelum menggunakan tool ini, alangkah baiknya edit variable outdir terlebih dahulu
+terdapat variable outdir, variable tersebut digunakan untuk tempat file terunduh
 
 ## Installation
 ```
