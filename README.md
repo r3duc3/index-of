@@ -2,7 +2,6 @@
 Download ebook from index-of.es or index-of.co.uk
 
 ## Available commands
-![commands](https://i.ibb.co/4JmdXp0/Kazam-screenshot-00000.png)
 ```
 q -> quit                                                                                                                                                                                   
 p -> previous                                                                                                                                                                               
