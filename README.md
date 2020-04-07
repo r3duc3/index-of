@@ -25,7 +25,9 @@ Menggunakan `d` command pada folder
 ![downloadDir](https://i.ibb.co/jgtR7mq/download-dir.gif)
 
 Sebelum menggunakan tool ini, alangkah baiknya edit variable outdir terlebih dahulu
+
 terdapat variable outdir, variable tersebut digunakan untuk tempat file terunduh
+
 ex: /home/reduce/Documents/ebook/
 
 ## Installation
