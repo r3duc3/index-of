@@ -26,6 +26,7 @@ Menggunakan `d` command pada folder
 
 Sebelum menggunakan tool ini, alangkah baiknya edit variable outdir terlebih dahulu
 terdapat variable outdir, variable tersebut digunakan untuk tempat file terunduh
+ex: /home/reduce/Documents/ebook/
 
 ## Installation
 ```
