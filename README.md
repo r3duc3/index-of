@@ -14,9 +14,11 @@ h -> help
 
 ## bad commands
 ![bad next](https://i.ibb.co/bJd8fDc/output.gif)
+
 Menggunakan  `n` command pada file
 
 ![bad_download](https://i.ibb.co/G3s0kkD/bad-download.gif)
+
 Menggunakan `d` command pada folder
 
 ## set downloaded dir
