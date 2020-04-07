@@ -7,7 +7,7 @@ from bs4 import BeautifulSoup as be
 br = mechanize.Browser()
 br.set_handle_redirect(False)
 br.set_handle_robots(False)
-br.addheaders = [('User-Agent', 'Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Mobile Safari/537.36')]
+br.addheaders = [('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36')]
 
 u = ''
 comm = (
@@ -109,8 +109,7 @@ def d():
 
         print(f'\n{w[5]}Downloaded: {w[4]}{outdir}{list(x.keys())[int(y)-1]}')
 
-    except Exception as ex:
-        print(ex)
+    except:
         return
 
 def c():
