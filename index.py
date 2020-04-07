@@ -1,3 +1,5 @@
+#!/usr/bin/python3
+
 import mechanize, os
 from requests import get
 from bs4 import BeautifulSoup as be
@@ -5,14 +7,14 @@ from bs4 import BeautifulSoup as be
 br = mechanize.Browser()
 br.set_handle_redirect(False)
 br.set_handle_robots(False)
-br.addheaders = [('User-Agent', 'Mozilla/5.0 (Linux; Android 7.1.2; Redmi 4A) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.132 Mobile Safari/537.36')]
+br.addheaders = [('User-Agent', 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/74.0.3729.169 Safari/537.36')]
 
 u = ''
 comm = (
         'q', 'p', 'n', 'c', 'd', 's', 'h'
         )
 width = os.get_terminal_size().columns
-outdir = '/sdcard/Documents/'
+outdir = '/sdcard/Documents/' # tempat file terunduh
 
 w = tuple([chr(27)+'[1;0m'] + list(chr(27)+'[1;3'+str(x)+'m' for x in range(1,7)))
 
