@@ -24,6 +24,8 @@ Menggunakan `d` command pada folder
 ## set downloaded dir
 ![downloadDir](https://i.ibb.co/jgtR7mq/download-dir.gif)
 
+ketik `vim index.py` lalu ubah value dari variable outdir
+
 ## Installation
 ```
 [sudo] apt install python3 git
