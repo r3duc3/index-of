@@ -17,6 +17,9 @@ h -> help
 
 ![bad_download](https://i.ibb.co/G3s0kkD/bad-download.gif)
 
+## set downloaded dir
+![downloadDir](https://i.ibb.co/jgtR7mq/download-dir.gif)
+
 ## Installation
 ```
 [sudo] apt install python3 git
