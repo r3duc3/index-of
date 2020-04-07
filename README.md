@@ -1,5 +1,5 @@
 # index-of
-Download ebook from index-of.es or index-of.co.uk
+Download ebook from [index-of.es](http://index-of.es) or [index-of.co.uk](http://index-of.co.uk)
 
 ## Available commands
 ```
